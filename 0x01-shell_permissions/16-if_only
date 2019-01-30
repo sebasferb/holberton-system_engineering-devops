@@ -1,2 +1,2 @@
 C#!/bin/bash
-if --from=guillaume chown betty hello
+if chown --from=guillaume hello betty
