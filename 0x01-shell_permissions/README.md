@@ -1,0 +1,1 @@
+This project content the tasks to shell permissions
