@@ -1,0 +1,2 @@
+C#!/bin/bash
+cat /etc/passwd/
