@@ -1,0 +1,1 @@
+This directory is to store the files to make the task of 0x02-shell_redirections
