@@ -1,2 +1,2 @@
 B#!/bin/bash
-find . -type f | rm *.js
+find . -type f -uname *js |rm
