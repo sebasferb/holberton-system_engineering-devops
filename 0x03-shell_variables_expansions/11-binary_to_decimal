@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((b2d#BINARY))
+echo $((2#BINARY))
